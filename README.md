@@ -4,7 +4,7 @@ Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
 - Name: [eder vasquez]
-- Major: [Your Major]
+- Major: [computer programming and analisis CPA]
 - Year: [2026]
 - Favorite Programming Language: [language C]
 
