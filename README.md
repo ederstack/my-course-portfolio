@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
-- Name: [Your Name]
+- Name: [eder vasquez]
 - Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Year: [2026]
+- Favorite Programming Language: [language C]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
